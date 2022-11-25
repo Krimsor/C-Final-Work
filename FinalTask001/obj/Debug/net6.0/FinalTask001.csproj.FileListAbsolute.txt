@@ -1,0 +1,15 @@
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\bin\Debug\net6.0\FinalTask001.exe
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\bin\Debug\net6.0\FinalTask001.deps.json
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\bin\Debug\net6.0\FinalTask001.runtimeconfig.json
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\bin\Debug\net6.0\FinalTask001.dll
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\bin\Debug\net6.0\FinalTask001.pdb
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\FinalTask001.csproj.AssemblyReference.cache
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\FinalTask001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\FinalTask001.AssemblyInfoInputs.cache
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\FinalTask001.AssemblyInfo.cs
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\FinalTask001.csproj.CoreCompileInputs.cache
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\FinalTask001.dll
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\refint\FinalTask001.dll
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\FinalTask001.pdb
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\FinalTask001.genruntimeconfig.cache
+C:\Users\v_suf\Desktop\Домашние Задания ГикБрейнс\FinalWorkC#\FinalTask001\obj\Debug\net6.0\ref\FinalTask001.dll
